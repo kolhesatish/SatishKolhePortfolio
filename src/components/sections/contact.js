@@ -58,11 +58,9 @@ const Contact = () => {
       <h2 className="numbered-heading overline">What’s Next?</h2>
 
       <h2 className="title">Get In Touch</h2>
-
       <p>
        My inbox is always open! I’m happy to discuss full-time opportunities or freelance projects, so don’t hesitate to get in touch
       </p>
-
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>
